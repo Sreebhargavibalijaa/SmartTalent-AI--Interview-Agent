@@ -42,7 +42,7 @@ openai==1.3.0
 python-dotenv==1.0.0
 
 
-## How It Works
+## 📦 How it works
 graph TD
     A[Upload Documents] --> B[Text Processing]
     B --> C[Vector Embeddings]
