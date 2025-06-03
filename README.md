@@ -29,6 +29,16 @@
 | NLP Framework    | ![LangChain](https://img.shields.io/badge/LangChain-00A67E?style=flat-square) |
 | Memory           | ConversationBufferMemory            |
 
+## 📦 **How it works**
+graph TD
+    A[Upload Documents] --> B[Text Processing]
+    B --> C[Vector Embeddings]
+    C --> D[FAISS Vector Store]
+    D --> E[Question Generation]
+    E --> F[Conversational Memory]
+    F --> G[Contextual Response]
+    G --> H[Evaluation Metrics]
+
 ## 📦 Requirements
 
 ```text
@@ -41,21 +51,6 @@ faiss-cpu==1.7.4
 openai==1.3.0
 python-dotenv==1.0.0
 
-
-## 📦 **How it works**
-graph TD
-    A[Upload Documents] --> B[Text Processing]
-    B --> C[Vector Embeddings]
-    C --> D[FAISS Vector Store]
-    D --> E[Question Generation]
-    E --> F[Conversational Memory]
-    F --> G[Contextual Response]
-    G --> H[Evaluation Metrics]
-Clone the repository:
-
-bash
-git clone https://github.com/yourusername/SmartTalent-AI-Interview-Agent.git
-cd SmartTalent-AI-Interview-Agent
 
 🤝 Contributing
 Fork the repository
