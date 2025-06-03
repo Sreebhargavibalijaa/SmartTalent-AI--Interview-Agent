@@ -1,0 +1,141 @@
+6/3/25, 2:29 PM Job Application for Lead Machine Learning Engineer - AI Agents at Upwork
+ Back to jobs
+Lead Machine Learning Engineer - AI Agents
+Remote
+Apply
+  Upwork ($UPWK) is the world’s largest work marketplace, connecting businesses with highly skilled professionals worldwide. From entrepreneurs to Fortune 100 enterprises, companies trust Upwork’s platform to access expert talent, leverage AI-powered work solutions, and drive meaningful business outcomes.
+Upwork’s AI-powered platform has facilitated over $20 billion in economic opportunity for professionals worldwide. With professionals spanning 10,000+ skills, including AI and machine learning, software development, sales and marketing, customer support, finance and accounting, and more, Upwork empowers businesses of all sizes to scale, innovate, and build agile teams.
+We’re looking for a Lead AI/ML Engineer to help shape the future of intelligent systems at Upwork. In this role, you’ll design and deliver cutting-edge infrastructure and models that power agentic LLM workflows across our platform. You’ll work at the intersection of research and production, owning the delivery of advanced ML solutions and driving business outcomes through applied innovation.
+This role offers the chance to lead high-impact projects, support and mentor others, and help shape the future of autonomous AI agents globally. You'll work on cutting-edge machine learning initiatives that drive real business results while contributing to the broader AI research community through publications at leading conferences.
+Responsibilities
+Architect and implement core infrastructure to support agent-based LLM systems, including multi-agent pipelines, RAG, and real-time orchestration.
+Train and fine-tune custom models, including LLMs and foundation models, to sol unique Upwork-specific challenges.
+  https://job-boards.greenhouse.io/upwork/jobs/6586418003 1/8
+ ve
+Privacy - Terms
+  
+6/3/25, 2:29 PM Job Application for Lead Machine Learning Engineer - AI Agents at Upwork
+Lead cross-functional collaboration across engineering, product, and research teams to align technical solutions with business impact.
+Mentor and guide engineers and researchers, helping foster a high-performing, inclusive team culture grounded in AI excellence.
+Translate experimental ideas into reliable, scalable production systems by applying best practices in AI engineering and deployment.
+Publish and share innovations where appropriate, contributing to Upwork’s visibility in the broader AI/ML research community.
+What it takes to catch our eye
+Strong proficiency in Python and modern ML frameworks such as PyTorch or TensorFlow, with experience developing and deploying AI systems.
+Deep understanding of core ML concepts, including transformers, generative models, and agent architectures such as MCP or A2A.
+Experience training large models on GPU clusters and integrating LLMs with external tools via APIs or orchestration frameworks.
+Comprehensive understanding of foundational deep learning, machine learning concepts, and state-of-the-art GenAI models.
+Hands-on experience training custom LLMs on GPUs and working with Retrieval- Augmented Generation (RAG) systems.
+Proven ability to build end-to-end ML pipelines—from data prep and experimentation to production deployment—in a cloud-native environment.
+A growth mindset, strong communication skills, and the ability to translate complex technical work to stakeholders across functions.
+Demonstrated experience working in R&D environments; publications in major AI/ML conferences are a plus, but not required.
+Come change how the world works.
+At Upwork, you’ll shape the future of work for a global, remote-first workforce, creating economic opportunities for professionals worldwide. While we have a physical office in Palo Alto, we currently hire full-time employees in 21 U.S. states, making it easier than ever to join our mission from wherever you call home.
+Our culture is built on trust, risk-taking, customer focus, and excellence, all in service of our core mission: to create economic opportunities so people have better lives. We embrace authenticity and inclusion, encouraging everyone to bring their whole selves to work. Personal and professional growth is a priority here, supported through development programs, mentorship, and our Upwork Belonging Communities.
+  https://job-boards.greenhouse.io/upwork/jobs/6586418003 2/8
+
+6/3/25, 2:29 PM Job Application for Lead Machine Learning Engineer - AI Agents at Upwork
+We’re proud to offer benefits that go beyond the basics, including comprehensive medical coverage for you and your family, unlimited PTO, a 401(k) plan with matching, 12 weeks of paid parental leave, and an Employee Stock Purchase Plan. Visit our Life at Upwork page to learn more about our values, working principles, and the overall employee experience.
+Ready to help shape the future of work? Check out our Careers page and follow us on LinkedIn, Facebook, Instagram, TikTok, and X to learn more about life at Upwork.
+Upwork is an Equal Opportunity Employer committed to recruiting and retaining a diverse and inclusive workforce. We do not discriminate based on race, religion, color, national origin, gender (including pregnancy, childbirth, or related medical conditions), sexual orientation, gender identity, gender expression, age, status as a protected veteran, status as an individual with a disability, genetic information, or other legally protected characteristics under federal, state, or local law.
+Please note that a criminal background check may be required once a conditional job offer is made. Qualified applicants with arrest or conviction records will be considered in accordance with applicable law, including the California Fair Chance Act and local Fair Chance ordinances.
+The annual base salary range for this position is displayed below. The range displayed reflects the minimum and maximum salary for this position, and individual base pay will depend on your skills, qualifications, experience, and location. Additionally, this position is eligible for the annual bonus plan or sales incentive plan and eligibility to participate in our long term equity incentive program.
+Annual Base Compensation
+$175,500 - $277,500 USD
+To learn more about how Upwork processes and protects your personal information as part of
+the application process, please review our Global Job Applicant Privacy Notice
+Apply for this job
+* indicates a required field
+          First Name *
+https://job-boards.greenhouse.io/upwork/jobs/6586418003 3/8
+
+6/3/25, 2:29 PM
+Job Application for Lead Machine Learning Engineer - AI Agents at Upwork
+ Last Name *
+ Email *
+ Phone
+Resume/CV
+ Attach
+Dropbox
+Google Drive
+Enter manually
+   Accepted file types: pdf, doc, docx, txt, rtf
+  LinkedIn Profile, Portfolio, Website, Other
+ What is your current state of residence? *
+ Select...
+ From what state do you plan to work? *
+ Select...
+ Have you been employed full time at Upwork before? *
+ Select...
+Upwork is committed to providing a safe and inclusive environment for our candidates and team members. As part of this commitment, we want to ensure we address you with the appropriate pronoun. *
+ Select...
+  Please select the option for the set of pronouns you want people to use to refer to you.
+https://job-boards.greenhouse.io/upwork/jobs/6586418003 4/8
+
+6/3/25, 2:29 PM Job Application for Lead Machine Learning Engineer - AI Agents at Upwork
+ Are you legally authorized to work in the United States? *
+ Select...
+ Will you now or in the future require sponsorship for an employment visa status? *
+ Select...
+Please choose the type of the visa you may need for sponsorship
+ Have you been previously employed by Upwork? If you were engaged through HWS (formerly known as TIP) as an independent contractor or payrolled worker, you should answer No. Only answer Yes if you were an employee of Upwork. *
+ Select...
+ Are you currently or were you previously engaged by Upwork through HWS (formerly known as TIP) as an independent contractor or payrolled worker? *
+ Select...
+ Voluntary Self-Identification
+For government reporting purposes, we ask candidates to respond to the below self- identification survey. Completion of the form is entirely voluntary. Whatever your decision, it will not be considered in the hiring process or thereafter. Any information that you do provide will be recorded and maintained in a confidential file.
+As set forth in Upwork’s Equal Employment Opportunity policy, we do not discriminate on the basis of any protected group status under any applicable law.
+ Gender
+ Select...
+  Are you Hispanic/Latino?
+ Select...
+  Race & Ethnicity Definitions
+ https://job-boards.greenhouse.io/upwork/jobs/6586418003 5/8
+
+6/3/25, 2:29 PM Job Application for Lead Machine Learning Engineer - AI Agents at Upwork
+If you believe you belong to any of the categories of protected veterans listed below, please indicate by making the appropriate selection. As a government contractor subject to the Vietnam Era Veterans Readjustment Assistance Act (VEVRAA), we request this information in order to measure the effectiveness of the outreach and positive recruitment efforts we undertake pursuant to VEVRAA. Classification of protected categories is as follows:
+A "disabled veteran" is one of the following: a veteran of the U.S. military, ground, naval or air service who is entitled to compensation (or who but for the receipt of military retired pay would be entitled to compensation) under laws administered by the Secretary of Veterans Affairs; or a person who was discharged or released from active duty because of a service- connected disability.
+A "recently separated veteran" means any veteran during the three-year period beginning on the date of such veteran's discharge or release from active duty in the U.S. military, ground, naval, or air service.
+An "active duty wartime or campaign badge veteran" means a veteran who served on active duty in the U.S. military, ground, naval or air service during a war, or in a campaign or expedition for which a campaign badge has been authorized under the laws administered by the Department of Defense.
+An "Armed forces service medal veteran" means a veteran who, while serving on active duty in the U.S. military, ground, naval or air service, participated in a United States military operation for which an Armed Forces service medal was awarded pursuant to Executive Order 12985.
+Voluntary Self-Identification of Disability
+Form CC-305 OMB Control Number 1250-0005 Page 1 of 1 Expires 04/30/2026
+Why are you being asked to complete this form?
+We are a federal contractor or subcontractor. The law requires us to provide equal employment opportunity to qualified people with disabilities. We have a goal of having at least 7% of our workers as people with disabilities. The law says we must measure our progress towards this goal. To do this, we must ask applicants and employees if they have a
+ Veteran Status
+ Select...
+   https://job-boards.greenhouse.io/upwork/jobs/6586418003 6/8
+
+6/3/25, 2:29 PM Job Application for Lead Machine Learning Engineer - AI Agents at Upwork
+disability or have ever had one. People can become disabled, so we need to ask this question at least every five years.
+Completing this form is voluntary, and we hope that you will choose to do so. Your answer is confidential. No one who makes hiring decisions will see it. Your decision to complete the form and your answer will not harm you in any way. If you want to learn more about the law or this form, visit the U.S. Department of Labor’s Office of Federal Contract Compliance Programs (OFCCP) website at www.dol.gov/ofccp.
+How do you know if you have a disability?
+A disability is a condition that substantially limits one or more of your “major life activities.” If you have or have ever had such a condition, you are a person with a disability. Disabilities include, but are not limited to:
+Alcohol or other substance use disorder (not currently using drugs illegally) Autoimmune disorder, for example, lupus, fibromyalgia, rheumatoid arthritis, HIV/AIDS Blind or low vision
+Cancer (past or present)
+Cardiovascular or heart disease
+Celiac disease
+Cerebral palsy
+Deaf or serious difficulty hearing
+Diabetes
+Disfigurement, for example, disfigurement caused by burns, wounds, accidents, or congenital disorders
+Epilepsy or other seizure disorder
+Gastrointestinal disorders, for example, Crohn's Disease, irritable bowel syndrome Intellectual or developmental disability
+Mental health conditions, for example, depression, bipolar disorder, anxiety disorder, schizophrenia, PTSD
+Missing limbs or partially missing limbs
+Mobility impairment, benefiting from the use of a wheelchair, scooter, walker, leg brace(s) and/or other supports
+Nervous system condition, for example, migraine headaches, Parkinson’s disease, multiple sclerosis (MS)
+Neurodivergence, for example, attention-deficit/hyperactivity disorder (ADHD), autism spectrum disorder, dyslexia, dyspraxia, other learning disabilities
+Partial or complete paralysis (any cause)
+Pulmonary or respiratory conditions, for example, tuberculosis, asthma, emphysema Short stature (dwarfism)
+Traumatic brain injury
+   https://job-boards.greenhouse.io/upwork/jobs/6586418003 7/8
+
+6/3/25, 2:29 PM Job Application for Lead Machine Learning Engineer - AI Agents at Upwork
+Disability Status
+ Select...
+ PUBLIC BURDEN STATEMENT: According to the Paperwork Reduction Act of 1995 no persons are required to respond to a collection of information unless such collection displays a valid OMB control number. This survey should take about 5 minutes to complete.
+ Powered by
+Read our Privacy Policy
+Submit application
+  https://job-boards.greenhouse.io/upwork/jobs/6586418003
+8/8

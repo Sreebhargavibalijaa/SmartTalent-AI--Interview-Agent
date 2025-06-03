@@ -1,0 +1,26 @@
+/* Animation for floating emojis */
+@keyframes float {
+    0% { transform: translateY(0px); }
+    50% { transform: translateY(-10px); }
+    100% { transform: translateY(0px); }
+}
+
+/* Custom scrollbar for chat */
+div[data-testid="stVerticalBlock"] > div[data-testid="stVerticalBlockBorderWrapper"] {
+    scrollbar-width: thin;
+    scrollbar-color: #4b8bff #f1f1f1;
+}
+
+/* Custom button styles */
+.stButton > button {
+    border: 2px solid #4b8bff;
+    color: white;
+    background-color: #4b8bff;
+    transition: all 0.3s;
+}
+
+.stButton > button:hover {
+    border: 2px solid #3a6fcc;
+    background-color: #3a6fcc;
+    transform: scale(1.02);
+}
