@@ -29,7 +29,7 @@
 | NLP Framework    | ![LangChain](https://img.shields.io/badge/LangChain-00A67E?style=flat-square) |
 | Memory           | ConversationBufferMemory            |
 
-## 📦 **How it works**
+## 📦 How it works
 graph TD
     A[Upload Documents] --> B[Text Processing]
     B --> C[Vector Embeddings]
