@@ -1,4 +1,4 @@
-# 🚀 SmartTalent AI Interview Agent 🤖
+# SmartTalent AI Interview Agent 🤖
 
 <div align="center">
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcDZ1dWx5ZzV5dWg3b3lqZzR4c2R2eWJ6dWx0bGJqZzB0eGZ3eWZ6biZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/L1R1tvI9svkIWwpVYr/giphy.gif" width="400" alt="AI Interview Bot">
@@ -10,14 +10,14 @@
   *Adaptive and Contextual Interview Agent for Intelligent Talent Screening*
 </div>
 
-## 🌟 Features
+## Features
 
-- 🧠 **GPT-4 Powered**: Context-aware interview questions
-- 📄 **Multi-Document Analysis**: Processes job descriptions, resumes, and company profiles
-- 💬 **Conversational Memory**: Maintains interview context throughout the session
-- 🎨 **Beautiful Interface**: Professional Streamlit UI with responsive design
-- ⚡ **RAG Architecture**: Retrieval-Augmented Generation for relevant questioning
-- 🔍 **Document Insights**: Extracts key qualifications and experience matches
+- **GPT-4 Powered**: Context-aware interview questions
+- **Multi-Document Analysis**: Processes job descriptions, resumes, and company profiles
+- **Conversational Memory**: Maintains interview context throughout the session
+- **Beautiful Interface**: Professional Streamlit UI with responsive design
+- **RAG Architecture**: Retrieval-Augmented Generation for relevant questioning
+- **Document Insights**: Extracts key qualifications and experience matches
 
 ## 🛠️ Tech Stack
 
