@@ -29,15 +29,17 @@
 | NLP Framework    | ![LangChain](https://img.shields.io/badge/LangChain-00A67E?style=flat-square) |
 | Memory           | ConversationBufferMemory            |
 
-## 📦 How it works
+## 🌟 How it works
+```mermaid
 graph TD
-    A[Upload Documents] --> B[Text Processing]
-    B --> C[Vector Embeddings]
-    C --> D[FAISS Vector Store]
-    D --> E[Question Generation]
-    E --> F[Conversational Memory]
-    F --> G[Contextual Response]
-    G --> H[Evaluation Metrics]
+A[Upload Documents] --> B[Text Processing]
+B --> C[Vector Embeddings]
+C --> D[FAISS Vector Store]
+D --> E[Question Generation]
+E --> F[Conversational Memory]
+F --> G[Contextual Response]
+G --> H[Evaluation Metrics]
+```
 
 ## 📦 Requirements
 
